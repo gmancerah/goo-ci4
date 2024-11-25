@@ -82,6 +82,10 @@ class Videos extends Controller
               // 'Content-Type' => 'application/json',
               // Add any authentication headers if required
                'Authorization' => $token ? "Bearer $token" : null,
+          ],
+          'query' => [
+        
+              'populate' => '*',
           ]
       ]);
 
