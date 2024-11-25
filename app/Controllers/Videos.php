@@ -48,6 +48,7 @@ class Videos extends Controller
                   'pageSize' => $pageSize // Number of items per page
               ],
               'populate' => '*',
+              'sort' => ['createdAt:desc'], // Sort by createdAt in descending order
           ]
       ]);
 
