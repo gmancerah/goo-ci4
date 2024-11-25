@@ -1,0 +1,962 @@
+CRITICAL - 2024-11-25 11:11:41 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:12:11 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:12:13 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:12:35 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:13:19 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:13:21 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:13:22 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:13:29 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:13:30 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:13:30 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:14:24 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:14:24 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:15:55 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:15:57 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:15:57 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:15:57 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:16:28 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:16:28 --> Error: Class "CodeIgniter\HTTP\Client" not found
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:17:38 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: your-strapi-url.com
+[Method: GET, Route: api/videos]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: your-strapi-url.com')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://your-strapi-url.com/videos')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://your-strapi-url.com/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(19): CodeIgniter\HTTP\CURLRequest->get('http://your-strapi-url.com/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:17:38 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: your-strapi-url.com
+[Method: GET, Route: api/videos]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: your-strapi-url.com')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://your-strapi-url.com/videos')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://your-strapi-url.com/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(19): CodeIgniter\HTTP\CURLRequest->get('http://your-strapi-url.com/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:17:39 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: your-strapi-url.com
+[Method: GET, Route: api/videos]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: your-strapi-url.com')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://your-strapi-url.com/videos')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://your-strapi-url.com/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(19): CodeIgniter\HTTP\CURLRequest->get('http://your-strapi-url.com/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:18:09 --> ParseError: syntax error, unexpected integer "1", expecting ";"
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 17.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:18:11 --> ParseError: syntax error, unexpected integer "1", expecting ";"
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 17.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:18:12 --> ParseError: syntax error, unexpected integer "1", expecting ";"
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 17.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:18:12 --> ParseError: syntax error, unexpected integer "1", expecting ";"
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 17.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:18:13 --> ParseError: syntax error, unexpected integer "1", expecting ";"
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 17.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:18:14 --> ParseError: syntax error, unexpected integer "1", expecting ";"
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 17.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:18:16 --> ParseError: syntax error, unexpected integer "1", expecting ";"
+[Method: GET, Route: api/videos]
+in APPPATH/Controllers/Videos.php on line 17.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:19:38 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: cms.goouniversity
+[Method: GET, Route: api/videos]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: cms.goouniversity')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity/videos')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(19): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:19:39 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: cms.goouniversity
+[Method: GET, Route: api/videos]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: cms.goouniversity')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity/videos')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(19): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:19:52 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/videos')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(19): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:19:53 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/videos')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(19): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:29:01 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: your-strapi-url.com
+[Method: GET, Route: api/videos/108]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: your-strapi-url.com')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://your-strapi-url.com/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://your-strapi-url.com/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(57): CodeIgniter\HTTP\CURLRequest->get('http://your-strapi-url.com/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:29:03 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: your-strapi-url.com
+[Method: GET, Route: api/videos/108]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: your-strapi-url.com')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://your-strapi-url.com/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://your-strapi-url.com/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(57): CodeIgniter\HTTP\CURLRequest->get('http://your-strapi-url.com/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:29:44 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos/108]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/api/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/api/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(57): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/api/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:29:46 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos/108]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/api/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/api/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(57): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/api/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:29:52 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos/108]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/api/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/api/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(57): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/api/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:29:52 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos/108]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/api/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/api/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(57): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/api/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 11:29:59 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos/108]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/api/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/api/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(57): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/api/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 14:35:32 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos/108]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/api/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/api/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(57): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/api/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 14:35:35 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos/108]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/api/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/api/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(57): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/api/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 14:39:01 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos/1]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/api/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/api/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(57): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/api/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:25:11 --> ParseError: syntax error, unexpected token ";"
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 20.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:25:12 --> ParseError: syntax error, unexpected token ";"
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 20.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:25:19 --> ParseError: syntax error, unexpected token ";"
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 20.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:25:20 --> ParseError: syntax error, unexpected token ";"
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 20.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Videos')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Videos')
+ 4 SYSTEMPATH/CodeIgniter.php(887): class_exists('\\App\\Controllers\\Videos', true)
+ 5 SYSTEMPATH/CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:26:43 --> ErrorException: Undefined variable $page
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 41.
+ 1 APPPATH/Controllers/Videos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', '/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php', 41)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:26:44 --> ErrorException: Undefined variable $page
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 41.
+ 1 APPPATH/Controllers/Videos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', '/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php', 41)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:27:48 --> ErrorException: Undefined variable $page
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 41.
+ 1 APPPATH/Controllers/Videos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', '/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php', 41)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:27:49 --> ErrorException: Undefined variable $page
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 41.
+ 1 APPPATH/Controllers/Videos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', '/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php', 41)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:28:14 --> ErrorException: Undefined variable $page
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 41.
+ 1 APPPATH/Controllers/Videos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', '/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php', 41)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:28:27 --> ErrorException: Undefined variable $page
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 41.
+ 1 APPPATH/Controllers/Videos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', '/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php', 41)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:28:27 --> ErrorException: Undefined variable $page
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 41.
+ 1 APPPATH/Controllers/Videos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', '/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php', 41)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:29:57 --> ErrorException: Undefined variable $page
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 41.
+ 1 APPPATH/Controllers/Videos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', '/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php', 41)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:30:00 --> ErrorException: Undefined variable $page
+[Method: GET, Route: api/videos/]
+in APPPATH/Controllers/Videos.php on line 41.
+ 1 APPPATH/Controllers/Videos.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $page', '/Users/stark/proyectos/goo-ci4/app/Controllers/Videos.php', 41)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:34:50 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(29): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:34:52 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(29): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:53:24 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(29): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:53:24 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(29): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:53:25 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(29): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:55:50 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(29): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:55:51 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(29): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:55:51 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(29): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:57:08 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(29): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:57:57 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(32): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:57:58 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(32): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:58:25 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(32): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:58:26 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(32): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:58:26 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(32): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:58:51 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(32): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:58:51 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(32): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 15:58:52 --> CodeIgniter\HTTP\Exceptions\HTTPException: 6 : Could not resolve host: api
+[Method: GET, Route: api/videos/]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('6', 'Could not resolve host: api')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'http://api/videos?filters%5Bvideo_asset%5D%5Burl%5D%5B%24contains%5D=.mp4&pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'http://api/videos', [...])
+ 5 APPPATH/Controllers/Videos.php(32): CodeIgniter\HTTP\CURLRequest->get('/api/videos', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 16:04:37 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos/1]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/api/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/api/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(78): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/api/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
+CRITICAL - 2024-11-25 16:05:34 --> CodeIgniter\HTTP\Exceptions\HTTPException: 22 : The requested URL returned error: 404
+[Method: GET, Route: api/videos/cz4pxullxbh2xps69kfpvk1o]
+in SYSTEMPATH/HTTP/CURLRequest.php on line 694.
+ 1 SYSTEMPATH/HTTP/CURLRequest.php(694): CodeIgniter\HTTP\Exceptions\HTTPException::forCurlError('22', 'The requested URL returned error: 404')
+ 2 SYSTEMPATH/HTTP/CURLRequest.php(383): CodeIgniter\HTTP\CURLRequest->sendRequest([...])
+ 3 SYSTEMPATH/HTTP/CURLRequest.php(152): CodeIgniter\HTTP\CURLRequest->send('GET', 'https://cms.goouniversity.com/api/videos/$1')
+ 4 SYSTEMPATH/HTTP/CURLRequest.php(187): CodeIgniter\HTTP\CURLRequest->request('GET', 'https://cms.goouniversity.com/api/videos/$1', [...])
+ 5 APPPATH/Controllers/Videos.php(78): CodeIgniter\HTTP\CURLRequest->get('https://cms.goouniversity.com/api/videos/$1', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Videos->show('$1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Videos))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/rewrite.php(44): require_once('/Users/stark/proyectos/goo-ci4/public/index.php')
