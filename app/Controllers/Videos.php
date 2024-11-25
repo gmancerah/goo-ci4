@@ -46,7 +46,8 @@ class Videos extends Controller
               'pagination' => [
                   'page' => $page, // Current page
                   'pageSize' => $pageSize // Number of items per page
-              ]
+              ],
+              'populate' => '*',
           ]
       ]);
 
