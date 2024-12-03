@@ -5,7 +5,7 @@ namespace App\Controllers;
 use CodeIgniter\Controller;
 use Config\Services;
 
-class CourseController extends Controller
+class QuizController extends Controller
 {
     /**
      * Fetch all courses with their cover image and related data
@@ -14,7 +14,7 @@ class CourseController extends Controller
     public function index()
     {
         // Get the Strapi URL and token from environment variables
-        $strapiUrl = getenv('STRAPI_URL') . '/api/courses'; // Base URL for courses
+        $strapiUrl = getenv('STRAPI_URL') . '/api/quizzes'; // Base URL for courses
         $token = getenv('STRAPI_TOKEN'); // Strapi API token
 
         // Get the HTTP client from the service
@@ -56,7 +56,7 @@ class CourseController extends Controller
     public function show($id)
     {
         // Get the Strapi URL and token from environment variables
-        $strapiUrl = getenv('STRAPI_URL') . "/api/courses/$id"; // URL for a specific course
+        $strapiUrl = getenv('STRAPI_URL') . "/api/quizzes/$id"; // URL for a specific course
         $token = getenv('STRAPI_TOKEN'); // Strapi API token
 
         // Get the HTTP client from the service
@@ -72,13 +72,11 @@ class CourseController extends Controller
     ],
     'query' => [
         'populate' => [
-    'Image', // Populate the Image field
-    'modules' => [ // Populate the modules relation
-        'populate' => [ // Nested populate for modules
-            'videos', // Populate the videos relation inside modules
-            'quiz'
-        ]
-    ]
+
+    'quiz_questions', // Populate the Image field
+    'quiz_questions.quiz_question_answers'
+    
+    
 ]
     ],
 ]);
