@@ -1,1 +1,3 @@
 .env
+writable/debugbar/*.json
+writable/logs/*
