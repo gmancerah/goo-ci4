@@ -17,6 +17,8 @@ class CourseController extends Controller
         $strapiUrl = getenv('STRAPI_URL') . '/api/courses'; // Base URL for courses
         $token = getenv('STRAPI_TOKEN'); // Strapi API token
 
+        $dateFilter = '2024-11-25T23:28:31.252Z';  
+
         // Get the HTTP client from the service
         $client = Services::curlrequest();
 
@@ -27,6 +29,11 @@ class CourseController extends Controller
                 'Authorization' => $token ? "Bearer $token" : null, // Add the token if available
             ],
             'query' => [
+                'filters' => [
+                    'createdAt' => [  
+                      '$gt' => $dateFilter // Filter for videos created before the specified date  
+                    ]
+                ],  
                 'populate' => "*",
                 // 'populate' => [
                     // 'Image' => '*', // Populate the cover image

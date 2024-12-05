@@ -22,7 +22,8 @@ class Videos extends Controller
       $token = getenv('STRAPI_TOKEN'); // Get the Strapi token from .env
       $defaultPageSize = getenv('DEFAULT_PAGE_SIZE') ?: 10; // Get the default page size from .env, default to 10 if not set
 
-
+      // Define the date filter  
+      $dateFilter = '2024-11-25T23:28:31.252Z';  
       
        $page = $this->request->getGet('page') ?? 1; // Current page
       $pageSize = $this->request->getGet('pageSize') ?? $defaultPageSize; // Number of items per page
@@ -37,11 +38,14 @@ class Videos extends Controller
           ],
           'query' => [
               'filters' => [
-                  'video_asset' => [
-                      'url' => [
-                          '$contains' => '.mp4' // Filter for .mp4 files
-                      ]
-                  ]
+                  // 'video_asset' => [
+                  //     'url' => [
+                  //         '$contains' => '.mp4' // Filter for .mp4 files
+                  //     ]
+                  // ]
+                'createdAt' => [  
+                  '$gt' => $dateFilter // Filter for videos created before the specified date  
+                ]  
               ],
               'pagination' => [
                   'page' => $page, // Current page
